@@ -8,4 +8,4 @@ A [keras](https://keras.io/) FRCNN to detect Fox in Super Smash Bros Melee for t
 
 ## Output
 
-*TODO: add output gif*
+![](readme/kjh_plup_vgbc_tbh7_fox_detect2.gif)
